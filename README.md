@@ -20,7 +20,7 @@
 本课程主要为本科生高年级和研究生设计，帮助学生：
 
 1. 完整的了解支持深度学习的计算机系统架构，并通过实际的问题，来学习深度学习完整生命周期下的系统设计。
- 
+
 2. 介绍前沿的系统和人工智能相结合的研究工作，包括AI for Systems和Systems for AI，以帮助高年级的本科生和研究生更好的寻找和定义有意义的研究问题。
 
 3. 从系统研究的角度出发设计实验课程。通过操作和应用主流和最新的框架、平台和工具来鼓励学生动手实现和优化系统模块，以提高解决实际问题的能力，而不仅仅是了解工具使用。
@@ -134,4 +134,4 @@ Microsoft's general trademark guidelines can be found at https://go.microsoft.co
 Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+or trademarks, whether by implication, estoppel or otherwise..
